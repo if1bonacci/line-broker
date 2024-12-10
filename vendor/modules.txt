@@ -2,3 +2,8 @@
 ## explicit; go 1.14
 github.com/go-chi/chi/v5
 github.com/go-chi/chi/v5/middleware
+# github.com/line/line-bot-sdk-go/v8 v8.10.0
+## explicit; go 1.22
+github.com/line/line-bot-sdk-go/v8/linebot
+github.com/line/line-bot-sdk-go/v8/linebot/messaging_api
+github.com/line/line-bot-sdk-go/v8/linebot/webhook
